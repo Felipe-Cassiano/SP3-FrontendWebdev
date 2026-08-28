@@ -161,7 +161,7 @@ export default function PhoneContainer() {
                     </p>
 
                     <p className="text-neutral-400 text-xs sm:text-sm leading-relaxed">
-                        Para começar a experiência interativa, selecione uma foto abaixo ou arraste-a diretamente para a tela do smartphone! (caso não apareça a sugestão, aguarde alguns segundos para que a IA processe a imagem. Caso isso não ocorra, tente novamente mais tarde, a API do Gemini está sobrecarregada)
+                        Para começar a experiência interativa, selecione uma foto abaixo ou arraste-a diretamente para a tela do smartphone! (caso não apareça a sugestão, aguarde alguns segundos para que a IA processe a imagem. Caso isso não ocorra, tente novamente mais tarde, a API do Gemini está sobrecarregada!)
                     </p>
 
                     <button

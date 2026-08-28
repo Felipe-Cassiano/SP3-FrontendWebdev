@@ -38,18 +38,15 @@ A aplicação **não possui sistema de autenticação ou login**. Todas as funci
 
 2. Instale as dependências do Frontend (React + Tailwind):
    ```bash
+   cd sp3-frontendwebdev
    npm install
-
-3. Instale as dependências do Backend (Python/Flask):
-  ```bash
-  pip install -r requirements.txt
-  ```
+   
 ## 🚀 Como Executar o Projeto
   1. Executando o Backend (API de IA)
   Em um terminal separado, navegue até a pasta do servidor e inicie o serviço:
   ```bash
-  cd backend
-  python app.py
+  cd api
+  python index.py
   ```
 2. Executando o Frontend (React)
 Em outro terminal, inicie o servidor de desenvolvimento do Vite:

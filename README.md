@@ -5,7 +5,7 @@ Uma aplicação interativa desenvolvida para revolucionar a experiência de edi�
 ## 🔗 Deploy do Projeto
 
 O projeto está implantado e disponível para testes no seguinte link:
-* **Vercel:** (https://sp-3-frontend-webdev-anqnk4cet-felipe-cassianos-projects.vercel.app)
+* **Vercel:** (https://sp-3-frontend-webdev-pzjgk4ovx-felipe-cassianos-projects.vercel.app)
 ## 🛠️ Tecnologias Utilizadas
 
 * **React**: Biblioteca principal para a construção da interface reativa.

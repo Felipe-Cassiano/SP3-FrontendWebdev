@@ -2,6 +2,7 @@ import PhoneContainer from "./components/PhoneContainer"
 import Solucao from "./components/Solucao"
 import PublicoAlvo from "./components/PublicoAlvo"
 import Equipe from "./components/Equipe"
+import Contato from "./components/Contato"
 import "./App.css"
 
 export default function App() {
@@ -16,6 +17,7 @@ export default function App() {
             <Solucao />
             <PublicoAlvo />
             <Equipe />
+            <Contato />
         </main>
     )
 }

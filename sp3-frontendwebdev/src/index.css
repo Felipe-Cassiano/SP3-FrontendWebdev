@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+.iconeDestaque::after {
+    content: "";
+    background: yellow;
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    top: 0;
+    left: 100%;
+    z-index: 10;
+}
+
+.gradiente-texto {
+    background: linear-gradient(90deg, #478cf6, #c1e1ff);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+}
+
+.icon-normal {
+    background: radial-gradient(circle, transparent 50%, white 100%), hsla(0, 0%, 0%, .25);
+}
+
+.icon-ativo {
+    background: radial-gradient(circle, transparent 50%, yellow 100%), hsla(0, 0%, 0%, .25) !important;
+}
+
+.linha {
+    margin: 0 3px;
+    min-width: 1.5px;
+    height: 30px;
+    background: darkgrey;
+    border-radius: 1px;
+}
+
+.linhaMedia {
+    height: 40px;
+    background: gray;
+}
+
+.linhaGrande {
+    height: 48px;
+    background: white;
+}
+
+.linhaDestaque {
+    background: yellow !important;
+}
